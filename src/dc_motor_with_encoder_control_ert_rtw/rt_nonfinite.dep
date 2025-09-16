@@ -1,0 +1,14 @@
+rt_nonfinite.o: \
+ C:/Users/LENOVO/Desktop/Git_Hub_projects_Septembre_20250/Dc_motor_16_09_2025/src/dc_motor_with_encoder_control_ert_rtw/rt_nonfinite.c \
+ C:/Users/LENOVO/Desktop/Git_Hub_projects_Septembre_20250/Dc_motor_16_09_2025/src/dc_motor_with_encoder_control_ert_rtw/rtGetNaN.h \
+ C:/Users/LENOVO/Desktop/Git_Hub_projects_Septembre_20250/Dc_motor_16_09_2025/src/dc_motor_with_encoder_control_ert_rtw/rt_nonfinite.h \
+ C:/Users/LENOVO/Desktop/Git_Hub_projects_Septembre_20250/Dc_motor_16_09_2025/src/dc_motor_with_encoder_control_ert_rtw/rtwtypes.h \
+ C:/Users/LENOVO/Desktop/Git_Hub_projects_Septembre_20250/Dc_motor_16_09_2025/src/dc_motor_with_encoder_control_ert_rtw/rtGetInf.h
+
+C:/Users/LENOVO/Desktop/Git_Hub_projects_Septembre_20250/Dc_motor_16_09_2025/src/dc_motor_with_encoder_control_ert_rtw/rtGetNaN.h:
+
+C:/Users/LENOVO/Desktop/Git_Hub_projects_Septembre_20250/Dc_motor_16_09_2025/src/dc_motor_with_encoder_control_ert_rtw/rt_nonfinite.h:
+
+C:/Users/LENOVO/Desktop/Git_Hub_projects_Septembre_20250/Dc_motor_16_09_2025/src/dc_motor_with_encoder_control_ert_rtw/rtwtypes.h:
+
+C:/Users/LENOVO/Desktop/Git_Hub_projects_Septembre_20250/Dc_motor_16_09_2025/src/dc_motor_with_encoder_control_ert_rtw/rtGetInf.h:
