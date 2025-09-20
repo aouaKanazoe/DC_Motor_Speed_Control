@@ -45,3 +45,10 @@ Le modèle est structuré en plusieurs sous-systèmes :
 - **Driver L298N** (pont en H)
 - **Alimentation 12 V DC** adaptée au moteur
 
+
+![figure](https://github.com/aouaKanazoe/DC_Motor_Speed_Control/blob/master/docs/Hardware_Overview.png)
+
+![figure](https://github.com/aouaKanazoe/DC_Motor_Speed_Control/blob/master/docs/montage_de_test.jpg)
+
+![figure](https://github.com/aouaKanazoe/DC_Motor_Speed_Control/blob/master/docs/schema_simulink_asservissement_PID_DCmotor.png)
+
